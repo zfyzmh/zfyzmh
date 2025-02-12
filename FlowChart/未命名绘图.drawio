@@ -57,7 +57,7 @@
         </mxCell>
         <mxCell id="HccrIyST9DHxjyB6C3b5-56" value="已初始化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HccrIyST9DHxjyB6C3b5-55">
           <mxGeometry x="-0.1591" y="3" relative="1" as="geometry">
-            <mxPoint x="67" y="-11" as="offset" />
+            <mxPoint x="82" y="-65" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HccrIyST9DHxjyB6C3b5-26" value="用户使用账号登录进平板系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -92,10 +92,19 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="369" y="540" as="sourcePoint" />
             <mxPoint x="370" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="570" />
+              <mxPoint x="370" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HccrIyST9DHxjyB6C3b5-61" value="未初始化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HccrIyST9DHxjyB6C3b5-60">
+          <mxGeometry x="-0.0891" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HccrIyST9DHxjyB6C3b5-59" value="进入引导页,并且从后台获取产品,型号,等基础信息进初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="600" width="140" height="60" as="geometry" />
+          <mxGeometry x="300" y="640" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
